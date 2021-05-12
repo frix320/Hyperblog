@@ -6,7 +6,11 @@ Estudia en la Eniversidad Libre y en cursos en linea de Platzi
 
 a dia de hoy mide 1.52
 
+<<<<<<< HEAD
 esta es una pruba
+=======
+
+>>>>>>> 4976717 (experimento 1)
 
 
 
