@@ -10,4 +10,4 @@ aqui se explica el mega blog que se realiza en el curso de git y github y esta e
 -     Disponible para todas las edades
 
 # Recordatorio
-Este Es Un Blog De Prueba
+Este Es Un Blog De Prueba, por favor no hacer pullrequest a este repositorio
