@@ -12,3 +12,5 @@ esta es una prueba
 
 
 hoy vamos a aprender mucho
+
+aqui estamos probando git stash
