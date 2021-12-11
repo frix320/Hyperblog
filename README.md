@@ -1,5 +1,5 @@
 #  **Hyperblog**
-aqui se explica el mega blog que se realiza en el curso de git y github y esta es una descripcion inclreible
+aqui se explica el mega blog que se realiza en el curso de git y github y esta es una descripcion increible
 -     Todos los comandos de Git
 -     El flujo de trabajo en Github
 -     El verdadero amor por las buenas prácticas
